@@ -1,6 +1,6 @@
 # Sales Performance Analysis
 
-Cleaned and analyzed a month of e-commerce sales data in Python, then built an interactive Tableau dashboard to explore revenue and unit sales by product and over time.
+Cleaned and analyzed a month of e-commerce sales data in Python, then built a Tableau dashboard to explore revenue and unit sales by product and over time.
 
 **[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/arya.rezvani/viz/SalesProject_17880047958240/Dashboard1)**
 
