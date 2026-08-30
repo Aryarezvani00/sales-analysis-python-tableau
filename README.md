@@ -36,14 +36,11 @@ Built in Tableau, combining four views into a single overview:
 
 ![Sales performance dashboard](dashboard/overview.png)
 
-## Key Challenge
-
-Getting four different chart types to sit together as one cohesive view was harder than building any single chart — sizing and aligning each element so the dashboard reads clearly at a glance, rather than feeling cluttered, took more iteration than the analysis itself.
 
 ## Key Findings
 
 - **Macbook Pro Laptop** is the clear leader in both revenue and general demand, though it doesn't top the units-sold chart — its high price point drives revenue disproportionately to volume
-- **AAA and AA Batteries** dominate units sold but rank low on revenue, since they're low-priced, high-frequency purchases — a classic volume-vs-value split worth highlighting for a retailer
+- **AAA and AA Batteries** dominate units sold but rank low on revenue, since they're low-priced, high-frequency purchases — a classic volume-vs-value split worth highlighting
 - Daily revenue is volatile day to day, with a few sharp spikes rather than a steady trend — worth investigating whether these align with promotions or specific days of the week
 
 ## Tools
