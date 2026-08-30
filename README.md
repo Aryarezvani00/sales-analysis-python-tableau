@@ -12,7 +12,7 @@ Cleaned and analyzed a month of e-commerce sales data in Python, then built a Ta
 
 ## Dataset
 
-[`data/Sales_April_2019.csv`](data/Sales_April_2019.csv) — order-level e-commerce sales data for April 2019, with columns: `Order ID`, `Product`, `Quantity Ordered`, `Price Each`, `Order Date`, `Purchase Address`.
+[`Sales_April_2019.csv`](data/Sales_April_2019.csv) — order-level e-commerce sales data for April 2019, with columns: `Order ID`, `Product`, `Quantity Ordered`, `Price Each`, `Order Date`, `Purchase Address`.
 
 ## Approach
 
