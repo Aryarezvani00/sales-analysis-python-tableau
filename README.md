@@ -16,7 +16,7 @@ Cleaned and analyzed a month of e-commerce sales data in Python, then built a Ta
 
 ## Approach
 
-Cleaning and feature engineering done in Python (`pandas`) — full process in [`sales_project.ipynb`](python/sales_project.ipynb):
+Cleaning and feature engineering done in Python (`pandas`) — full process in [`sales_project.ipynb`](python/sales project.ipynb):
 
 - Standardized column names to lowercase/underscore format
 - Converted `order_date` to proper datetime and `price_each`/`quantity_ordered` to correct numeric types
